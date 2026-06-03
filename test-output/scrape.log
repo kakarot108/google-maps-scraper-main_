@@ -1,0 +1,73 @@
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ 🌍 Google Maps Scraper                                                                                               ║
+║ ⭐ If you find this project useful, please star it on GitHub: https://github.com/gosom/google-maps-scraper           ║
+║ 💖 Consider sponsoring to support development: https://github.com/sponsors/gosom                                     ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+2026/06/02 15:54:28 INFO Downloading browsers...
+Downloading Chromium 143.0.7499.4 (playwright build v1200)[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1200/chromium-mac-arm64.zip[22m
+(node:57920) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+|                                                                                |   0% of 159.6 MiB
+|■■■■■■■■                                                                        |  10% of 159.6 MiB
+|■■■■■■■■■■■■■■■■                                                                |  20% of 159.6 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 159.6 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 159.6 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 159.6 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 159.6 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 159.6 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 159.6 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 159.6 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 159.6 MiB
+Chromium 143.0.7499.4 (playwright build v1200) downloaded to /Users/ceedindia/Library/Caches/ms-playwright/chromium-1200
+Downloading FFMPEG playwright build v1011[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/ffmpeg/1011/ffmpeg-mac-arm64.zip[22m
+(node:57948) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+|                                                                                |   0% of 1 MiB
+|■■■■■■■■                                                                        |  10% of 1 MiB
+|■■■■■■■■■■■■■■■■                                                                |  21% of 1 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 1 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 1 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 1 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 1 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  71% of 1 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 1 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 1 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 1 MiB
+FFMPEG playwright build v1011 downloaded to /Users/ceedindia/Library/Caches/ms-playwright/ffmpeg-1011
+Downloading Chromium Headless Shell 143.0.7499.4 (playwright build v1200)[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1200/chromium-headless-shell-mac-arm64.zip[22m
+(node:57949) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+|                                                                                |   0% of 89.7 MiB
+|■■■■■■■■                                                                        |  10% of 89.7 MiB
+|■■■■■■■■■■■■■■■■                                                                |  20% of 89.7 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■                                                        |  30% of 89.7 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                                |  40% of 89.7 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                        |  50% of 89.7 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                                |  60% of 89.7 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                        |  70% of 89.7 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■                |  80% of 89.7 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■        |  90% of 89.7 MiB
+|■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■| 100% of 89.7 MiB
+Chromium Headless Shell 143.0.7499.4 (playwright build v1200) downloaded to /Users/ceedindia/Library/Caches/ms-playwright/chromium_headless_shell-1200
+2026/06/02 15:55:33 INFO Downloaded browsers successfully
+{"level":"info","component":"scrapemate","time":"2026-06-02T10:25:34.265251Z","message":"starting scrapemate"}
+{"level":"info","component":"scrapemate","jobid":"7466cf5c-8d1c-4b71-bba3-89896f2a5b00","time":"2026-06-02T10:25:39.788447Z","message":"16 places found"}
+{"level":"info","component":"scrapemate","job":"Job{ID: 7466cf5c-8d1c-4b71-bba3-89896f2a5b00, Method: GET, URL: https://www.google.com/maps/search/cafe+in+athens, UrlParams: map[hl:en]}","status":"success","duration":5523.087,"time":"2026-06-02T10:25:39.788467Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: b00f1a92-c189-45e0-9e95-907d7714a628, Method: GET, URL: https://www.google.com/maps/place/Taf+Coffee/data=!4m7!3m6!1s0x14a1bd308088c6c3:0xd9bd84c06beb0e11!8m2!3d37.9835085!4d23.7308313!16s%2Fg%2F1wb446b6!19sChIJw8aIgDC9oRQREQ7ra8CEvdk?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":2255.342,"time":"2026-06-02T10:25:42.043937Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: 2cb783c2-023e-4fe1-bdc3-f9e392e89735, Method: GET, URL: https://www.google.com/maps/place/Myller+Coffee+Shop/data=!4m7!3m6!1s0x14a1bd7dbb6fafd7:0x5f0498b540d79282!8m2!3d37.9789838!4d23.7240804!16s%2Fg%2F11sh03qxjz!19sChIJ169vu329oRQRgpLXQLWYBF8?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1810.368,"time":"2026-06-02T10:25:43.854353Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: 92b256a2-d6ab-487a-898d-ce92e5f726a6, Method: GET, URL: https://www.google.com/maps/place/Little+Tree+Books+and+Coffee/data=!4m7!3m6!1s0x14a1bd1a11dfd849:0x54f8ff37020d4f3a!8m2!3d37.9681624!4d23.7270509!16s%2Fg%2F11c0xjnmtj!19sChIJSdjfERq9oRQROk8NAjf_-FQ?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1759.073,"time":"2026-06-02T10:25:45.613456Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: e6b2ae99-5eab-4b72-8c48-ae7916c1a6e0, Method: GET, URL: https://www.google.com/maps/place/Melina+Mercouri+Caf%C3%A9/data=!4m7!3m6!1s0x14a1bd17e3d7762b:0x14836a7f84584371!8m2!3d37.9733376!4d23.7285992!16s%2Fg%2F113f_fvdf!19sChIJK3bX4xe9oRQRcUNYhH9qgxQ?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1832.314,"time":"2026-06-02T10:25:47.445797Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: d9d89d5d-589e-47d7-aa9a-aa2dd8bac213, Method: GET, URL: https://www.google.com/maps/place/En+Athinas+%7C+Cafe+Athens/data=!4m7!3m6!1s0x14a1bd1cc9c16ad7:0xeb524b482c97da5d!8m2!3d37.9794148!4d23.7266932!16s%2Fg%2F11kln_5gv6!19sChIJ12rByRy9oRQRXdqXLEhLUus?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1771.373,"time":"2026-06-02T10:25:49.217203Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: a9e694d9-3cab-48a2-be48-784431784e60, Method: GET, URL: https://www.google.com/maps/place/Kimolia+Art+Cafe/data=!4m7!3m6!1s0x14a1bd3dee5c3213:0x58012d092c742d32!8m2!3d37.9734812!4d23.7325881!16s%2Fg%2F1ts6d8lp!19sChIJEzJc7j29oRQRMi10LAktAVg?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1799.653,"time":"2026-06-02T10:25:51.016892Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: 56e43d75-4be2-4d2a-96f1-7dcd21f5cf59, Method: GET, URL: https://www.google.com/maps/place/Cat+Cafe+Athens+%287%E2%82%AC%2Fpers,+Allowed+Age+14%2B%29/data=!4m7!3m6!1s0x14a1bdd6c3639c21:0x1ae0467c75941e19!8m2!3d37.9753421!4d23.7147533!16s%2Fg%2F11sw0d7h1g!19sChIJIZxjw9a9oRQRGR6UdXxG4Bo?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1892.461,"time":"2026-06-02T10:25:52.909379Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: 9222f738-a383-4aea-9293-d8c1e5bab2bb, Method: GET, URL: https://www.google.com/maps/place/ELLYZ+Cafe+Athens/data=!4m7!3m6!1s0x14a1bd253f1c907b:0x52f1ae408d4ae376!8m2!3d37.9765564!4d23.7233014!16s%2Fg%2F11fn92fs9w!19sChIJe5AcPyW9oRQRduNKjUCu8VI?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1866.67,"time":"2026-06-02T10:25:54.776073Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: cb8d38bb-013a-46b2-bf10-4483043a418e, Method: GET, URL: https://www.google.com/maps/place/Coffee+Lab+Athens/data=!4m7!3m6!1s0x14a1bd24dbd97811:0x18e212f37e9a0108!8m2!3d37.981053!4d23.727847!16s%2Fg%2F11gglq43rl!19sChIJEXjZ2yS9oRQRCAGafvMS4hg?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1764.639,"time":"2026-06-02T10:25:56.540742Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: 5e5c4c79-048d-4386-92e8-a13219f6764c, Method: GET, URL: https://www.google.com/maps/place/The+Makers+Athens/data=!4m7!3m6!1s0x14a1bdcf3940e32f:0x4afd8b017502c65c!8m2!3d37.9792864!4d23.729074!16s%2Fg%2F11ns5fh88f!19sChIJL-NAOc-9oRQRXMYCdQGL_Uo?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1766.312,"time":"2026-06-02T10:25:58.307087Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: e5b1f52c-7326-4d3a-9456-431bef747e09, Method: GET, URL: https://www.google.com/maps/place/Tate+Speciality+Coffee/data=!4m7!3m6!1s0x14a1bdff91d5f949:0xaa8d46e9b1db0e99!8m2!3d37.9775244!4d23.7310718!16s%2Fg%2F11s5bzpvvq!19sChIJSfnVkf-9oRQRmQ7bselGjao?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1806.205,"time":"2026-06-02T10:26:00.113319Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: eebf9ea6-5358-4394-ad4e-71561a2f5398, Method: GET, URL: https://www.google.com/maps/place/Tailor+Made+Coffee+Roasters/data=!4m7!3m6!1s0x14a1bd0ea7cfdacd:0x1760d48a5b637f7a!8m2!3d37.9766898!4d23.7295879!16s%2Fg%2F11kc0h9hh3!19sChIJzdrPpw69oRQRen9jW4rUYBc?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1735.113,"time":"2026-06-02T10:26:01.848456Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: 5cbe36f6-1b56-4fe4-ba79-920dc46191fa, Method: GET, URL: https://www.google.com/maps/place/Minu/data=!4m7!3m6!1s0x14a1bd7c7521001f:0xcca81132306877a!8m2!3d37.9781708!4d23.7212823!16s%2Fg%2F11j24nfhh0!19sChIJHwAhdXy9oRQReocGIxOBygw?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1776.699,"time":"2026-06-02T10:26:03.625182Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: 24102e6d-6821-40b4-a66b-d95c544eb228, Method: GET, URL: https://www.google.com/maps/place/Coffee+Joint/data=!4m7!3m6!1s0x14a1bd1122651b09:0x26f84d5db75e5333!8m2!3d37.9668409!4d23.7310666!16s%2Fg%2F11clsd33jd!19sChIJCRtlIhG9oRQRM1Net11N-CY?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1844.782,"time":"2026-06-02T10:26:05.46999Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: f0e1503a-6da7-430e-8219-99ff7ba8ee45, Method: GET, URL: https://www.google.com/maps/place/White+Turtle+Coffeehouse/data=!4m7!3m6!1s0x14a1bda4c09ae51d:0x7a1564cc76f4139c!8m2!3d37.9873041!4d23.7310253!16s%2Fg%2F11t25bdjkx!19sChIJHeWawKS9oRQRnBP0dsxkFXo?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":2026.444,"time":"2026-06-02T10:26:07.496464Z","message":"job finished"}
+{"level":"info","component":"scrapemate","job":"Job{ID: b929b05a-6809-4a59-ba4c-4c8367324229, Method: GET, URL: https://www.google.com/maps/place/Boken+Athens/data=!4m7!3m6!1s0x14a1bd61ce3a285b:0x441a15a88a2f5c5b!8m2!3d37.9845099!4d23.7331021!16s%2Fg%2F11vbj_7yh6!19sChIJWyg6zmG9oRQRW1wviqgVGkQ?authuser=0&hl=en&rclk=1, UrlParams: map[hl:en]}","status":"success","duration":1790.025,"time":"2026-06-02T10:26:09.286516Z","message":"job finished"}
+{"level":"info","component":"scrapemate","time":"2026-06-02T10:26:09.286546Z","message":"scrapemate exited"}

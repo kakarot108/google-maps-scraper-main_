@@ -1,0 +1,19 @@
+{
+  "hosting": {
+    "public": "firebase-public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "run": {
+          "serviceId": "google-maps-scraper-web",
+          "region": "us-central1"
+        }
+      }
+    ]
+  }
+}

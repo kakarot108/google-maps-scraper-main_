@@ -1,0 +1,21 @@
+<tr>
+    <td><span class="job-id" title="{{.ID}}">{{.ID}}</span></td>
+    <td><span class="job-name">{{.Name}}</span></td>
+    <td><span class="job-date">{{formatDate .Date}}</span></td>
+    <td>
+        <span class="status-indicator status-{{.Status}}">{{.Status}}</span>
+    </td>
+    <td>
+        <div class="actions-cell">
+            {{ if eq .Status "ok" }}
+            <a href="/download?id={{.ID}}" download class="btn-sm download-button">Download CSV</a>
+            {{ end }}
+            <button type="button"
+                hx-delete="/delete?id={{.ID}}"
+                hx-target="closest tr"
+                hx-swap="outerHTML"
+                hx-confirm="Delete this job and its results?"
+                class="btn-sm delete-button">Delete</button>
+        </div>
+    </td>
+</tr>
